@@ -2,7 +2,7 @@ Algonive-Credit-Card-Fraud-Detection
 ________________________________________________________________________________________________________________________________________________
 Credit Card Fraud Detection using Machine Learning.  Implemented Random Forest with SMOTE to handle class imbalance and accurately detect fraudulent transactions.
 
-Credit Card Fraud Detection using Machine Learning. This project focuses on detecting fraudulent credit card transactions using machine learning techniques.
+This project focuses on detecting fraudulent credit card transactions using machine learning techniques.
 
 ___________________________________________________________________________________________________________________________________________________
 
