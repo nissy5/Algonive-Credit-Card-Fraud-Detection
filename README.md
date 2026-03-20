@@ -7,7 +7,9 @@ Credit Card Fraud Detection using Machine Learning. This project focuses on dete
 ___________________________________________________________________________________________________________________________________________________
 
 🔍 Overview
+
 The dataset contains transaction details labeled as:
+
 0 → Normal Transaction  
 1 → Fraudulent Transaction  
 
@@ -16,6 +18,7 @@ Since the dataset is highly imbalanced, SMOTE (Synthetic Minority Over-sampling 
 ___________________________________________________________________________________________________________________________________________________
 
 ⚙️ Technologies Used
+
 - Python
 - Pandas
 - NumPy
@@ -26,6 +29,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________
 
 🚀 Methodology
+
 1. Data preprocessing and cleaning  
 2. Removal of non-numeric features  
 3. Feature scaling using StandardScaler  
@@ -47,9 +51,10 @@ ________________________________________________________________________________
 
 📌 Output Example
 - Normal Transaction  
-- Fraud Transaction  
-
+- Fraud Transaction
+  
+____________________________________________________________________________________________________________________________________________________
 👩‍💻 Author
-_____________________________________________________________________________________________________________________________________________________
+
 Nissy Sajitha Pulukuri
 
